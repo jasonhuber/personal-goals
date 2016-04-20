@@ -15,12 +15,17 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 
 - [ ] Design Eyeglass Site
-- [ ] get backup of MPW done
-- [ ] book flight for Darin and Victoria to come down
+- [ ] figure out upgrade from 5.6.1 to 6.2.1
+- [ ] figure out upgrade from 6.1 to 6.2.1
 
 ### Things I'll Do in the Future:
 - [ ] see abs
 -
 
-### Backlog: Side Projects & Other Ideas
-- [Apps & Other Projects](https://github.com/una/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
+### travel schedule: My known schedule of travel
+- [20160523] Manheim! @ATL
+- [20160516] TIBCO Now! @LasVegas
+- [20160509] NexJ @Toronto
+- [20160502] PriorityTech @Omaha
+- [20160425] Amex-Smart @PHX
+- [20160418] Manheim @ATL 
