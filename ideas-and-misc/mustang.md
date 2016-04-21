@@ -5,6 +5,7 @@
 
 - [ ] Transmission drip Checked $0
 - [ ] Transmission drip fixed $1800
+- [ ] replace valve cover gaskets - $? (https://www.youtube.com/watch?v=J4GWEaWNNv8)
 - [ ] oil leak Checked $0
 - [ ] oil leak fixed $?
 - [ ] fix driver's top handle $100
@@ -16,3 +17,5 @@
 - [ ] interior lights $0
 - [ ] replace struts in front $0
 - [ ] replace brake pads in front $0
+- [ ] stereo replacement with reverse camera
+- [ ] screw down center console (harbor freight)
