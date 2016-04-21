@@ -5,7 +5,7 @@
 
 - [ ] Transmission drip Checked $0
 - [ ] Transmission drip fixed $1800
-- [ ] replace valve cover gaskets - $? (https://www.youtube.com/watch?v=J4GWEaWNNv8)
+- [ ] replace valve cover gaskets - $65 (https://www.youtube.com/watch?v=J4GWEaWNNv8)
 - [ ] oil leak Checked $0
 - [ ] oil leak fixed $?
 - [ ] fix driver's top handle $100
