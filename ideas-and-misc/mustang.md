@@ -17,5 +17,6 @@
 - [ ] interior lights $0
 - [ ] replace struts in front $0
 - [ ] replace brake pads in front $0
+- [ ] replace brake pads in the rear $0
 - [ ] stereo replacement with reverse camera
 - [ ] screw down center console (harbor freight)
