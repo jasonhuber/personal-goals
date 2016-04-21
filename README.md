@@ -4,9 +4,8 @@ Personal Goals
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.github.io/personal-goals-guide/).
 
 # Overarching Goals for 2016: [Just do it.]
-1. Build quickly, ship things, and learn.
-2. fitness < 13% bf
-3. relationship with family
+1. fitness < 13% bf
+2. relationship with family
 
 # April 25, 2015
 
@@ -17,7 +16,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] figure out upgrade from 5.6.1 to 6.2.1
 - [ ] figure out upgrade from 6.1 to 6.2.1
 - [ ] write example of a report writing back to the db using snippets
-- [ ] Book Toronto flights and hotels
+- [X] Book Toronto flights and hotels
+- [X] Get Kristin's archery squad stuff
 
 ### Things I'll Do in the Future:
 
