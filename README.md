@@ -26,24 +26,24 @@ Personal goals made open source for accessibility across computers I use, transp
 ### travel schedule: My known schedule of travel
 
 - [booked?] [Date] Description @location
-- [X] [20160905] (Labor Day - Monday)
-- [X] [20160829]
-- [X] [20160822]
-- [X] [20160815]
-- [X] [20160808]
-- [X] [20160801]
-- [X] [20160725]
-- [X] [20160718]
-- [X] [20160711] (Jason Off - Decatur - outdoor nationals)
-- [X] [20160704] (Independence Day - Monday)
-- [X] [20160627]
-- [X] [20160620]
-- [X] [20160613]
-- [X] [20160606]
-- [X] [20160530] (Memorial Day Monday)  
-- [X] [20160523] Manheim! @ATL
+- [ ] [20160905] (Labor Day - Monday)
+- [ ] [20160829]
+- [ ] [20160822]
+- [ ] [20160815]
+- [ ] [20160808]
+- [ ] [20160801]
+- [ ] [20160725]
+- [ ] [20160718]
+- [ ] [20160711] (Jason Off - Decatur - outdoor nationals)
+- [ ] [20160704] (Independence Day - Monday)
+- [ ] [20160627]
+- [ ] [20160620]
+- [ ] [20160613]
+- [ ] [20160606]
+- [ ] [20160530] (Memorial Day Monday)  
+- [ ] [20160523] Manheim! @ATL
 - [ ] [20160516] TIBCO Now! @LasVegas
 - [ ] [20160509] ??
-- [X] [20160502] PriorityTech @Omaha
-- [X] [20160425] Amex-Smart @PHX
+- [ ] [20160502] PriorityTech @Omaha
+- [ ] [20160425] Amex-Smart @PHX
 - [X] [20160418] Manheim @ATL
