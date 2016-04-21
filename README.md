@@ -10,11 +10,10 @@ Personal goals made open source for accessibility across computers I use, transp
 
 # April 25, 2015
 
-### This Week's Focus: Thanksgiving
+### This Week's Focus: Manhiem
 
 ## Things I'll do This Week:
 
-- [ ] Design Eyeglass Site
 - [ ] figure out upgrade from 5.6.1 to 6.2.1
 - [ ] figure out upgrade from 6.1 to 6.2.1
 - [ ] write example of a report writing back to the db using snippets
@@ -29,7 +28,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [booked?] [Date] Description @location
 - [X] [20160523] Manheim! @ATL
 - [ ] [20160516] TIBCO Now! @LasVegas
-- [ ] [20160509] NexJ @Toronto
+- [ ] [20160509] NexJ @Toronto - changed to remote?
 - [X] [20160502] PriorityTech @Omaha
-- [ ] [20160425] Amex-Smart @PHX
+- [X] [20160425] Amex-Smart @PHX
 - [X] [20160418] Manheim @ATL
