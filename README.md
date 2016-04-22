@@ -18,7 +18,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] write example of a report writing back to the db using snippets
 - [X] Book Toronto flights and hotels
 - [X] Get Kristin's archery squad stuff
-
+- [ ] SSO for Manheim
 ### Things I'll Do in the Future:
 
 - [ ] see abs
