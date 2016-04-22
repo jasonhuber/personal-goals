@@ -1,15 +1,5 @@
-# This Weeks Accomplishments: -- date here --
+# Date YYMMDD - client
 
-## This Week's Focus:
+# 20160418 - Manheim
 
-## Things I Did From the List:
-
-## Things I Didn't Get to/Finish:
-
-### Additional Things I Did
-
-## Next Week's Focus:
-
-## Things I'll do Next Week:
-
-### Week in Review
+- demonstrated PoC with Praveen. Went over very well.
