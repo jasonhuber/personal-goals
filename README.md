@@ -14,6 +14,10 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll do This Week:
 - [ ] write example of a report writing back to the db using snippets
 - [ ] Fix DynamicTableResize (virtualbox vm)
+- [ ] Kristin's phone replacement
+- [ ] renew domains
+- [ ] Book tibco now hotel
+- [ ] godaddy renewals
 
 ### Things I'll Do in the Future:
 
@@ -29,7 +33,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] [20160808]
 - [ ] [20160801]
 - [ ] [20160725]
-- [ ] [20160718]
+- [ ] [20160718] (Monday Jason off)
 - [ ] [20160711] (Jason Off - Decatur - outdoor nationals)
 - [ ] [20160704] (Independence Day - Monday)
 - [ ] [20160627]
