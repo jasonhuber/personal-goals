@@ -15,9 +15,16 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] write example of a report writing back to the db using snippets
 - [ ] Fix DynamicTableResize (virtualbox vm)
 - [ ] Kristin's phone replacement
-- [ ] renew domains
+- [X] renew domains
 - [ ] Book tibco now hotel
-- [ ] godaddy renewals
+- [X] godaddy renewals
+
+## Specific goals for Amex-Smart:
+
+- [ ] Jaspersoft SSO - they have a service that will send the user to the login endpoint. They come back with the token in the headers. An organization for a user will be held in the JRS repo... Users will be pre-created in the repo....
+- [ ] Jaspersoft SSO (ADP) - Need to configure ADP SSO.
+- [ ] Discuss Organizations. They simply need to know how to use them.
+- [X] Custom rest endpoint. They want a custom rest endpoint to talk to to run code etc through.
 
 ### Things I'll Do in the Future:
 

@@ -22,3 +22,8 @@
 - [ ] replace brake pads in the rear $0
 - [ ] stereo replacement with reverse camera
 - [ ] screw down center console (harbor freight)
+
+## Done:
+
+
+- 20160424 - idler pulley
