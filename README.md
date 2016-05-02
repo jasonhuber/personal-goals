@@ -15,25 +15,14 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] write example of a report writing back to the db using snippets
 - [ ] Fix DynamicTableResize (virtualbox vm)
 - [ ] Kristin's phone replacement
-- [X] renew domains
-- [X] godaddy renewals
-- [ ] refund for mustang title - called 4/26/2016
-- [X] cancel appointment with dr Agins.
 - [ ] upload highchart code for Shailesh to github
-- [ ] register Kaylin for soccer
-- [X] register Kaylin for Piano
-- [X] check school balances
 - [ ] any JRS specific items for session replication across servers?
+- [ ] enter expenses Manheim and Amex and P?
 
 
 
-
-## Specific goals for Amex-Smart:
-
-- [X] Jaspersoft SSO - they have a service that will send the user to the login endpoint. They come back with the token in the headers. An organization for a user will be held in the JRS repo... Users will be pre-created in the repo....
-- [X] Jaspersoft SSO (ADP) - Need to configure ADP SSO.
-- [ ] Discuss Organizations. They simply need to know how to use them.
-- [X] Custom rest endpoint. They want a custom rest endpoint to talk to to run code etc through.
+## Specific goals for PriorityTech:
+-[ ] ??
 
 ### Things I'll Do in the Future:
 
@@ -61,5 +50,5 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] [20160516] TIBCO Now! @LasVegas ???
 - [ ] [20160509]           20160513 - Jason Drs. appointment
 - [ ] [20160502] PriorityTech @Omaha
-- [ ] [20160425] Amex-Smart @PHX
+- [X] [20160425] Amex-Smart @PHX
 - [X] [20160418] Manheim @ATL
