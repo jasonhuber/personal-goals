@@ -15,11 +15,11 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] write example of a report writing back to the db using snippets
 - [ ] Fix DynamicTableResize (virtualbox vm)
 - [ ] Kristin's phone replacement
-- [ ] upload highchart code for Shailesh to github
-- [ ] any JRS specific items for session replication across servers?
 - [ ] enter expenses Manheim and Amex and P?
-
-
+- [X] get JDT waiver signed and in
+- [ ] more chlorine for pool.
+- [ ] fix rear security lights
+- [ ] 
 
 ## Specific goals for PriorityTech:
 -[ ] ??
