@@ -7,22 +7,24 @@ Personal goals made open source for accessibility across computers I use, transp
 1. fitness < 13% bf
 2. relationship with family
 
-# April 25, 2015
+# May 2, 2016
 
-### This Week's Focus: Amex-Smart, Albridge
+### This Week's Focus: ProrityTech, Albridge
 
 ## Things I'll do This Week:
-- [ ] write example of a report writing back to the db using snippets
-- [ ] Fix DynamicTableResize (virtualbox vm)
+- [ ] write example of a report writing back to the db using helper class.
+- [Y] Fix DynamicTableResize (virtualbox vm)
 - [ ] Kristin's phone replacement
-- [ ] enter expenses Manheim and Amex and P?
+- [X] enter expenses Manheim and Amex and P?
 - [X] get JDT waiver signed and in
 - [ ] more chlorine for pool.
 - [ ] fix rear security lights
-- [ ] 
+- [X] DTN recompile of SSO.
+- [X] Need to enter code for Amex expenses.
 
 ## Specific goals for PriorityTech:
--[ ] ??
+- [X] upgrade to 6.2.1
+- [X] SSO port to Spring 3.
 
 ### Things I'll Do in the Future:
 
@@ -45,10 +47,10 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] [20160620]
 - [ ] [20160613]
 - [ ] [20160606]
-- [ ] [20160530] (Memorial Day Monday)  
-- [ ] [20160523] Manheim! @ATL
-- [ ] [20160516] TIBCO Now! @LasVegas ???
-- [ ] [20160509]           20160513 - Jason Drs. appointment
-- [ ] [20160502] PriorityTech @Omaha
+- [ ] [20160530] (Memorial Day Monday)  (Darin leaves 6/2)
+- [X] [20160523] Manheim! @ATL (Darin arrives 5/26)
+- [ ] [20160516]
+- [X] [20160509] Arbitration Forums @Tampa  20160513 - Jason Drs. appointment
+- [X] [20160502] PriorityTech @Omaha
 - [X] [20160425] Amex-Smart @PHX
 - [X] [20160418] Manheim @ATL
