@@ -10,7 +10,6 @@
 - [ ] oil leak fixed $?
 - [ ] fix driver's top handle $100
 - [ ] fix hydraulics for top $10 - $100?
-- [ ] tensioner and belt $60
 
 
 
@@ -27,3 +26,4 @@
 
 
 - 20160424 - idler pulley
+- 20160425 - tensioner and belt $60
