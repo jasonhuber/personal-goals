@@ -7,12 +7,18 @@ Personal goals made open source for accessibility across computers I use, transp
 1. fitness < 13% bf
 2. relationship with family
 
-# May 16, 2016
+# May 23, 2016
 
-### This Week's Focus: Arbitration Forums
+westside silverfins
+swim neptune
+arrowhead countryclub sunwest
+
+
+### This Week's Focus: Manheim automotive
 
 ## Things I'll do This Week:
-- [ ] Kristin's phone replacement
+- [X] kk summer camps?
+
 
 ## Specific goals for Tibco:
 - [ ] ??
@@ -35,12 +41,12 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] [20160711] (Jason Off - Decatur - outdoor nationals)
 - [ ] [20160704] (Independence Day - Monday)
 - [ ] [20160627]
-- [ ] [20160620]
-- [ ] [20160613]
-- [ ] [20160606]
+- [X] [20160620] @ATL Manheim
+- [ ] [20160613] @PHX Manheim PoC
+- [X] [20160606] @BIL KOA
 - [ ] [20160530] (Memorial Day Monday)  (Darin leaves 6/2)
 - [X] [20160523] Manheim! @ATL (Darin arrives 5/26)
-- [X] [20160516] @Home BNYMellon Tickets?
+- [X] [20160516] @Home DTN/Cataleya?
 - [X] [20160509] Arbitration Forums @Tampa  20160513 - Jason Drs. appointment
 - [X] [20160502] PriorityTech @Omaha
 - [X] [20160425] Amex-Smart @PHX
