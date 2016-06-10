@@ -7,18 +7,27 @@ Personal goals made open source for accessibility across computers I use, transp
 1. fitness < 13% bf
 2. relationship with family
 
-# May 23, 2016
+# June 2, 2016
 
 westside silverfins
 swim neptune
 arrowhead countryclub sunwest
 
 
-### This Week's Focus: Manheim automotive
+I owe amex:
+$43
+$36.08
+
+
+### This Week's Focus: KOA
+
 
 ## Things I'll do This Week:
-- [X] kk summer camps?
-
+- [ ] Get Manheim ODIN project requirements
+- [X] Gene's project.
+- [X] cancel SW flights to Nashville
+- [X] finish pdf project for Aaron.
+- [X] HR email
 
 ## Specific goals for Tibco:
 - [ ] ??
@@ -36,11 +45,11 @@ arrowhead countryclub sunwest
 - [ ] [20160815]
 - [ ] [20160808]
 - [ ] [20160801]
-- [ ] [20160725]
-- [ ] [20160718] (Monday Jason off)
-- [ ] [20160711] (Jason Off - Decatur - outdoor nationals)
+- [ ] [20160725] (Jason off PDX)
+- [ ] [20160718]
+- [ ] [20160711]
 - [ ] [20160704] (Independence Day - Monday)
-- [ ] [20160627]
+- [X] [20160627] @SFO TOI
 - [X] [20160620] @ATL Manheim
 - [ ] [20160613] @PHX Manheim PoC
 - [X] [20160606] @BIL KOA

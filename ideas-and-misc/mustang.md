@@ -10,6 +10,7 @@
 - [ ] oil leak fixed $?
 - [ ] fix driver's top handle $100
 - [ ] fix hydraulics for top $10 - $100?
+- [ ] front tie rod ends - $75
 
 
 
