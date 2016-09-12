@@ -7,48 +7,42 @@ Personal goals made open source for accessibility across computers I use, transp
 1. fitness < 13% bf
 2. relationship with family
 
-# June 2, 2016
 
-westside silverfins
-swim neptune
-arrowhead countryclub sunwest
+# Sept 12, 2016
 
-
-I owe amex:
-$43
-$36.08
-
-
-### This Week's Focus: KOA
-
+### This Week's Focus:
+Mustang top hydraulics
 
 ## Things I'll do This Week:
-- [ ] Get Manheim ODIN project requirements
-- [X] Gene's project.
-- [X] cancel SW flights to Nashville
-- [X] finish pdf project for Aaron.
-- [X] HR email
 
 ## Specific goals for Tibco:
-- [ ] ??
+
 
 ### Things I'll Do in the Future:
-
-- [ ] see my abs - almost there. Top two showing...
+- [ ] see my abs - almost there. Top four showing...
 
 ### travel schedule: My known schedule of travel
 
 - [booked?] [Date] Description @location
-- [ ] [20160905] (Labor Day - Monday)
+- [ ] [20161107]
+- [ ] [20161031]
+- [ ] [20161024]
+- [ ] [20161017]
+- [ ] [20161010]
+- [ ] [20161003]
+- [X] [20160926] (San Ramon?) Ventiv, 5000 Executive Parkway, Suite 560, San Ramon, CA 94583
+- [ ] [20160919]
+- [ ] [20160912] (SE work) prep call with Michael L. re: Emerson Electric, SOD Presentation training
+- [X] [20160905] (Labor Day - Monday) @ATL - NCR training
 - [ ] [20160829]
 - [ ] [20160822]
 - [ ] [20160815]
 - [ ] [20160808]
-- [ ] [20160801]
+- [ ] [20160801] (bench)
 - [ ] [20160725] (Jason off PDX)
-- [ ] [20160718]
-- [ ] [20160711]
-- [ ] [20160704] (Independence Day - Monday)
+- [X] [20160718] @UK
+- [ ] [20160711] (Jason Jury Duty 7/12-?)
+- [ ] [20160704] (Independence Day - Monday) 7/6 - PriorityTech
 - [X] [20160627] @SFO TOI
 - [X] [20160620] @ATL Manheim
 - [ ] [20160613] @PHX Manheim PoC
