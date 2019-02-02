@@ -37,3 +37,4 @@ Phone: (623) 931-8078)
 - 20160712 - oil pan gasket
 - 20160901 - Camera installed and head unit replaced.
 - 20160903 - new seat covers installed
+- 20160912 - new hydraulics for top. Total fail. Goes down but not up......
