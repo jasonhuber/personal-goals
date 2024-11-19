@@ -1,0 +1,8 @@
+site_name: Jason's Personal Tracker
+nav:
+  - Home: home.md
+  - About: about.md
+  - archived-weeks:
+    - 20160418: 20160418.md
+theme: mkdocs
+docs_dir: /Users/jasonhuber/Dropbox/Personal/personal-goals
